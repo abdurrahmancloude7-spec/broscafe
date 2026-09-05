@@ -1,0 +1,6 @@
+{
+  "name": "Bro's Cafe & Restaurant",
+  "description": "Bro's Cafe & Restaurant is a premier social dining destination at Salam Heights, E-11 Markaz, Islamabad. Food made for good company.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
